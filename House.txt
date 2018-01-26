@@ -1,0 +1,7 @@
+A Microwave:
+
+So It’s a Microwave which first has to be plugged in to a power source.
+
+It has several data that can be accepted, connecting it to a power source, lets it turn its light on, It has a few buttons by which it can enter the data when pressing them, several buttons can be pressed, the machine collects the data entered and will not turn it into outputs until the "start" button is pressed.
+
+Another kind of data it accepts, is smoke, detecting the smoke with sensors automatically turns everything off.
